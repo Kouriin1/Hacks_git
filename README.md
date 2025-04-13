@@ -5,7 +5,7 @@ Here are all the hacks from Social Oplesk. (activities of 24/3/2025)
 
 | Hacks | Link |
 | ------ | ------ |
-| H_1 | https://github.com/Kouriin1/git_h_1 |
+| H_1 | [Hack1]https://github.com/Kouriin1/git_h_1) |
 | H_2 | https://github.com/Kouriin1/git_h_2 |
 | H_3 | https://github.com/Kouriin1/git_h_3 |
 | H_4 | https://github.com/Kouriin1/git_h_4 |
